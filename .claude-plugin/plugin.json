@@ -7,7 +7,16 @@
     "url": "https://redmo.xyz"
   },
   "homepage": "https://redmo.xyz/ai",
+  "privacyPolicyUrl": "https://redmo.xyz/terms",
   "repository": "https://github.com/AlanStasik/redmo-claude-plugin",
   "license": "MIT",
-  "keywords": ["quiz", "education", "classroom", "trivia", "presentation", "live-game"]
+  "keywords": [
+    "quiz",
+    "education",
+    "classroom",
+    "trivia",
+    "presentation",
+    "live-game"
+  ],
+  "icon": ".claude-plugin/icon.png"
 }
