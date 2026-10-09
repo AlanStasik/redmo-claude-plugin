@@ -1,5 +1,6 @@
 {
   "name": "redmo",
+  "displayName": "RedMo",
   "version": "1.0.0",
   "description": "Build live quizzes in RedMo: a host puts them on a big screen and the room plays on their phones.",
   "author": {
@@ -8,6 +9,9 @@
   },
   "homepage": "https://redmo.xyz/ai",
   "privacyPolicyUrl": "https://redmo.xyz/terms",
+  "termsOfServiceUrl": "https://redmo.xyz/terms",
+  "documentationUrl": "https://redmo.xyz/ai",
+  "supportUrl": "https://redmo.xyz/contact",
   "repository": "https://github.com/AlanStasik/redmo-claude-plugin",
   "license": "MIT",
   "keywords": [
