@@ -1,0 +1,13 @@
+{
+  "name": "redmo",
+  "version": "1.0.0",
+  "description": "Build live quizzes in RedMo: a host puts them on a big screen and the room plays on their phones.",
+  "author": {
+    "name": "RedMo",
+    "url": "https://redmo.xyz"
+  },
+  "homepage": "https://redmo.xyz/ai",
+  "repository": "https://github.com/AlanStasik/redmo-claude-plugin",
+  "license": "MIT",
+  "keywords": ["quiz", "education", "classroom", "trivia", "presentation", "live-game"]
+}

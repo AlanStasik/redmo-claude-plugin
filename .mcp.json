@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "redmo": {
+      "type": "http",
+      "url": "https://redmo.xyz/mcp"
+    }
+  }
+}
